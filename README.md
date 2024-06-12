@@ -1,5 +1,5 @@
 # Challenge Alura Geek
-# Em construção
+# (Em construção)
 
 ### O que é?
 O Alura Geek, que é um projeto de e-commerce.
